@@ -65,7 +65,3 @@ export async function removeAllParticipants({id}: TournamentId): Promise<Partici
     .then(response => handleResponse<ParticipantResponse>(response))
     .catch(reason => handleError(reason));
 }
-
-let participantObjecct: ParticipantObject = {
-    name: "eric"
-}
