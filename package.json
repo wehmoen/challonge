@@ -1,5 +1,5 @@
 {
-  "name": "challonge-api-js",
+  "name": "challonge",
   "version": "1.0.3",
   "description": "Challonge JS SDK",
   "main": "./dist/main.js",
